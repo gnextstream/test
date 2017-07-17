@@ -1,0 +1,12 @@
+{
+    "name": "root/test",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "test Testerov",
+            "email": "test@test.bg"
+        }
+    ],
+    "require": {}
+}
